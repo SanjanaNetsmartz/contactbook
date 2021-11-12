@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+.navbar{
+  color:azure;
+  text-transform: uppercase;
+}
+.Heading{
+  margin-left: 34% !important;
+}
+.col-md-6{
+  margin-top: 8%;
+}
+.display-3{
+  text-transform: capitalize;
+  font-style: normal;
+}
+.btn{
+  margin-left: 4%;
+}
